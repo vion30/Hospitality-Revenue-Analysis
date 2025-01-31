@@ -50,6 +50,9 @@ Atliq Grands is a luxury and business hotel chain facing declining market share 
 2. Explore the dashboard to interact with key insights.
 3. Read through the insights report for key findings.
 
+## 🪟 Dashboard Overview
+![image](https://github.com/user-attachments/assets/92d87ce8-ad12-4794-a571-ed249b513fbe)
+
 ---
 
 🔍 **Conclusion:**
